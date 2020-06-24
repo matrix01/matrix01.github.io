@@ -1,0 +1,11 @@
+- title: Home
+  href: index.html
+
+- title: Posts
+  href: list/posts.html
+
+- title: Tech
+  href: tech.html
+  
+- title: About
+  href: about.html
