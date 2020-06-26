@@ -1,13 +1,18 @@
 ---
-title:  How to use Single Images
+title:  How to create custom template for Xcode
 tags:
-  - Friday Theme
-  - HTML
-  - images
-  - Markdown
+  - Template
+  - Xcode
+  - Swift
+  - Viper
+  - Architecture
 ---
 
-Here's how to put a single image into a post, using a Bootstrap 4 card. This shows how to mingle Markdown with HTML, too.
+For my last two project I had the opportunity to setup the base architecture for iOS project. Since most of my projects were in MVC until now it was hard to choose a Base Architecture. I learned two most popular architecture, MVVM with clean architecture and Viper. I will discuss more about choosing a architecture on later posts. While implemeting source code for projects I faced difficulty of creating many files that needs to be created at same format with some specific files. It was frustrating. So I started to look for a solution and the solution was right in front of me and it was creating module with those specific files. Vola!!! Problem solved.
+
+
+### Where to start?
+
 
 <!--more-->
 
