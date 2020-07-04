@@ -9,13 +9,14 @@ tags:
   - Stones
   - Travel
 images:
-  - https://www.dropbox.com/s/swwhpmxfn6w23vd/IMG_4554.jpg?dl=0
-  - https://photos.app.goo.gl/EWLs596kF8GRPcD17
-  - https://photos.app.goo.gl/EWLs596kF8GRPcD17
-  - https://photos.app.goo.gl/EWLs596kF8GRPcD17
-  - https://photos.app.goo.gl/EWLs596kF8GRPcD17
-  - https://photos.app.goo.gl/EWLs596kF8GRPcD17
-  - https://photos.app.goo.gl/EWLs596kF8GRPcD17
+  - http://saosx.com/photos.jpg
+  - http://saosx.com/photos.jpg
+  - http://saosx.com/photos.jpg
+  - http://saosx.com/photos.jpg
+  - http://saosx.com/photos.jpg
+  - http://saosx.com/photos.jpg
+  - http://saosx.com/photos.jpg
+  - http://saosx.com/photos.jpg
 ---
 
 Here are the photos from my travel to Jogashima Island. A place full of natural beauty and peace.
